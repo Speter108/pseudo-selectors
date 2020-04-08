@@ -1,0 +1,19 @@
+
+
+.a{
+    margin-top: 20px;
+    border-top: none;
+}
+
+p{
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    width: 300px;
+    margin: 0;
+    padding: 20px;
+}
+
+p:hover {
+    background-color: brown;
+}
